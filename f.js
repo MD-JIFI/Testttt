@@ -2,7 +2,7 @@ const Wahid = require("../Utilis/events");
 const { forwardOrBroadCast } = require("../Utilis/groupmute");
 const { getBuffer } = require('../Utilis/download');
 const { parseJid } = require("../Utilis/vote");
-// WAHID-JR
+// MD-JIFI
 const url = 'https://www.linkpicture.com/q/mdjifi_1.jpg'
 Wahid.addCommand(
   { pattern: 'f ?(.*)', fromMe: true, desc: "Forward replied msg." },
@@ -24,7 +24,7 @@ Wahid.addCommand(
         	"itemCount" : 10001,
              "status": 1,
            "surface" : 1,
-           "message": "عَبْدُ الوَاحِدْ۩",
+           "message": "ꪻꪮ᥊𝔦ᥴ ꪑ᭙ꪮꪀ",
            "orderTitle": "",
            "thumbnail": buff.buffer,
            "sellerJid": '0@s.whatsapp.net' 
